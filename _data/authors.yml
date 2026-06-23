@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+Ysidro Magana:
+  name        : "Ysidro Magana"
+  email       : "ysidro.magana14@gmail.com"
+  twitter     : "ysidro"
+  google_plus : "Ysidro Magana"
+  bio         : "Hi am a mechanical engineer with a minor in elecctrical engineering from Santa Clara University."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
